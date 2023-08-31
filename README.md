@@ -1,2 +1,3 @@
-# test-repo
-A plain-old, public test repo for activities
+# The Testing Grounds
+
+A public area 51 for Git activities.
